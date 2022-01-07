@@ -1,9 +1,6 @@
 # Image Encryption using AES Algorithm  
-❖ To study the working of AES algorithm.  
-❖ To Encrypt and then decrypt a digital image using
-AES algorithm using python modules.  
-❖ To observe and analyse different modes of AES
-encryption and decryption.  
+ Studied the working of AES algorithm to encrypt and then decrypt a digital image using
+ AES algorithm using python modules.Observed and analysed different modes of AES encryption and decryption.  
 
 1. To run the code, any python ide can be used like pycharm, juypter notebook, google collab.  
 2. Following Libraries need to installed before running the python code  
